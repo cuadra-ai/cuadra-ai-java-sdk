@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ai.cuadra</groupId>
   <artifactId>cuadra-ai-sdk</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <packaging>jar</packaging>
   <name>Cuadra AI SDK</name>
   <description>Build AI agents with your own data, accelerate time-to-value, and create solutions as unique as your business.</description>
